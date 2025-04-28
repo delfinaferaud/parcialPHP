@@ -75,8 +75,8 @@ $libros = (new Libro)->todas();
                         <p><?= $libro->autor;?></p>
                     </div>
                     <picture class="news-item_imagen">
-                        <source srcset="<?= 'img/' . $libro->img;?>" media="all and (min-width: 46.875em)">
-                        <img src="<?= 'img/' . $libro->img;?>" alt="<?= $libro->titulo;?>">
+                        <source srcset="<?= 'img/' . $libro->img;?>" media="all and (max-width: 46.875em)">
+                        <img src="<?= $libro->img;?>" alt="<?= $libro->titulo;?>">
                     </picture>
                 </article>
             </div>

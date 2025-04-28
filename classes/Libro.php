@@ -6,7 +6,7 @@ class Libro
     public int $id = 0;
     public string $titulo = "";
     public string $autor = "";
-    public string $precio = "";
+    public int $precio = 0;
     public string $anio = "";
     public string $genero = "";
     public string $img = "";

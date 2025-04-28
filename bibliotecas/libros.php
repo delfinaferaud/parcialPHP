@@ -136,7 +136,7 @@ function obtenerLibroPorId(int $id): ?Libro // ?Noticia == Noticia|null
     $libros = obtenerLibros();
 
     foreach($libros as $libro) {
-        if($libro->libro == $id) {
+        if($libro->id == $id) {
             return $libro;
         }
     }

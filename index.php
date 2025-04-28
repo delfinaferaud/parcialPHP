@@ -36,6 +36,12 @@ $rutaOpciones = $listaRutas[$seccion];
     <!-- <link rel="icon" href="favicon.ico" sizes="any"> -->
     <!-- <link rel="icon" href="favicon.svg" type="image/svg+xml"> -->
     <!-- <link rel="apple-touch-icon" href="favicon-ios.png"> -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-DQvkBjpPgn7RC31MCQoOeC9TI2kdqa4+BSgNMNj8v77fdC77Kj5zpWFTJaaAoMbC"
+      crossorigin="anonymous"
+    />
     <title><?= $rutaOpciones['titulo'];?> :: Tienda de libros</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
