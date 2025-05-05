@@ -2,6 +2,9 @@
 
 body {
   background-color: rgb(219, 217, 195);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 * {
   margin: 0;
@@ -17,16 +20,20 @@ h2 {
   margin: 1rem 0;
 }
 
-header {
-  height: 12vh;
+.div-title {
   background-color: #206770;
-  color: aliceblue;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: sticky;
-  top: -1rem;
-  z-index: 999;
+  color: #ffffff;
+  height: 100px;
+}
+.navbar {
+  background-color: #206770;
+}
+.div-title h1 {
+  margin: 0;
+}
+
+h1 a {
+  color: #ffffff;
 }
 
 input[type='search'],
@@ -88,10 +95,9 @@ main {
   font-size: 0.8rem;
 }
 
-img{
-    object-fit: cover; 
-    height: 100%
-
+img {
+  object-fit: cover;
+  height: 100%;
 }
 
 .cart {
@@ -114,27 +120,6 @@ img{
   margin-top: 0.5rem;
 }
 
-.cart.vaciar {
-  background-color: #702020;
-}
-
-.cart.volver {
-  font-size: 1.5rem;
-}
-
-button:hover,
-.cart.vaciar:hover,
-.cart.volver:hover {
-  background-color: #4c4b4b;
-}
-
-.finalizado {
-  margin: 2rem 0;
-  font-size: 2rem;
-  font-weight: 700;
-  text-align: center;
-}
-
 footer {
   height: 6vh;
   display: flex;
@@ -143,4 +128,17 @@ footer {
   background-color: #206770;
   color: aliceblue;
   padding-right: 2rem;
+}
+
+input[type='text'],
+input[type='email'],
+input[type='tel'],
+input[type='number'] {
+  border: 1px solid #206770;
+  resize: none;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
 }
