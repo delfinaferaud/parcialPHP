@@ -3,72 +3,72 @@
     "id": 1,
     "titulo": "La amiga estupenda",
     "autor": "Elena Ferrante",
-    "precio": 30000,
     "anio": "2011",
     "genero": "Ficción histórica",
-    "img": "img/laamigaestupenda.jpg"
+    "img": "img/laamigaestupenda.jpg",
+    "descripcion": "Elena Ferrante inaugura una saga deslumbrante que tiene como telón de fondo la ciudad de Nápoles a mediados del siglo pasado y como protagonistas a Lenù y Lila, dos jóvenes mujeres que están aprendiendo a gobernar su vida en un entorno donde la astucia, antes que la inteligencia, es el ingrediente de todas las salsas. <br> La relación tempestuosa entre Lila y Lenù nos muestra la realidad de un barrio habitado por gente humilde que acata sin rechistar la ley del más fuerte. <br> Los que llenan estas páginas con sus risas, sus gestos y sus palabras son hombres y mujeres de carne y hueso, que nos sacuden por la fuerza y la urgencia de sus emociones."
   },
   {
     "id": 2,
     "titulo": "1984",
     "autor": "George Orwell",
-    "precio": 20000,
     "anio": "1949",
     "genero": "Distopía",
-    "img": "img/1984.jpg"
+    "img": "img/1984.jpg",
+    "descripcion": "Es el año 1984 en Oceanía, al menos eso piensa Winston, aunque no está seguro de ello. El pasado ha sido reinventado y el presente también es susceptible de ser modificado. Winston mismo, que trabaja para el Partido en el Ministerio de la Verdad, es el encargado de reescribir los archivos que contradicen la versión del Gran Hermano, siguiendo siempre sus consignas: La guerra es la paz. La libertad es la esclavitud. La ignorancia es la fuerza. Aunque es hábil, con cada nueva mentira su conciencia comienza a pesarle, e intenta rebelarse: primero escribe un diario, luego entabla una relación secreta con Julia. Pero la Policía del Pensamiento está más cerca de lo que parece, y el Gran Hermano está siempre observando… <br> La odisea de Winston Smith en un mundo en el que resulta imposible escapar del control de una dictadura es una de las obras más célebres del siglo xx y una brillante advertencia sobre los totalitarismos. Una novela que cobra nueva vigencia en la sociedad actual, en la que los mecanismos de control social se hallan más perfeccionados que en ningún otro momento de la historia."
   },
   {
     "id": 3,
     "titulo": "Orlando",
     "autor": "Virginia Woolf",
-    "precio": 30000,
     "anio": "1928",
     "genero": "Ficción histórica",
-    "img": "img/orlando.jpg"
+    "img": "img/orlando.jpg",
+    "descripcion": "Orlando. Una biografía (1928) relata parte de la trayectoria vital de un muchacho aristócrata de la corte de Isabel I de Inglaterra que, tras un profundo sueño, se despierta un día encarnado en mujer. La progresiva aceptación de Orlando de su nueva identidad dará lugar a una disertación sobre la condición femenina que lleva al lector hasta el siglo XX, ya que el tiempo discurre fugazmente. Esto permite a la autora adentrarse en temas que en su época causaban verdadero escándalo: la sexualidad en general y la homosexualidad en particular, el papel de la mujer con respecto a estos temas y las restricciones que la sociedad había impuesto a quienes no se ajustaban al perfil moral y ético imperante. Mas, en realidad, Virginia Woolf se sirve de su propia experiencia para analizar estas cuestiones, pues Orlando no es otra que Vita Sackville-West, quien fuera su amante y confidente. El recurso al género biográfico utilizando el punto de vista de una mujer, resultó totalmente innovador para la época, dado que hasta el momento había sido el hombre quien predominantemente se había servido de él en la literatura. Esto ha llevado a considerar Orlando como la obra más brillante de la producción literaria de Virginia Woolf, lo que se ha visto reflejado en su éxito y en su impacto en la literatura posterior."
   },
   {
     "id": 4,
     "titulo": "El hombre en busca de sentido",
     "autor": "Viktor Frankl",
-    "precio": 20000,
     "anio": "1946",
     "genero": "Psicología",
-    "img": "img/elhombreenbusca.jpg"
+    "img": "img/elhombreenbusca.jpg",
+    "descripcion": "El doctor Frankl, psiquiatra y escritor, suele preguntar a sus pacientes aquejados de múltiples padecimientos: «¿Por qué no se suicida usted?» Y muchas veces, de las respuestas extrae una orientación para la psicoterapia a aplicar: a éste, lo que le ata a la vida son los hijos; al otro, un talento, una habilidad sin explotar; a un tercero, quizás, sólo unos cuantos recuerdos que merece la pena rescatar del olvido. Tejer estas tenues hebras de vidas rotas en una urdimbre firme, coherente, significativa y responsable es el objeto con que se enfrenta la logoterapia. En esta obra, Viktor E. Frankl explica la experiencia que le llevó al descubrimiento de la logoterapia. <br> Prisionero, durante mucho tiempo, en los desalmados campos de concentración, él mismo sintió en su propio ser lo que significaba una existencia desnuda. ¿Cómo pudo él que todo lo había perdido, que había visto destruir todo lo que valía la pena, que padeció hambre, frío, brutalidades sin fin, que tantas veces estuvo a punto del exterminio, cómo pudo aceptar que la vida fuera digna de vivirla? El psiquiatra que personalmente ha tenido que enfrentarse a tales rigores merece que se le escuche, pues nadie como él para juzgar nuestra condición humana sabia y compasivamente. Las palabras del doctor Frankl alcanzan un temple sorprendentemente esperanzador sobre la capacidad humana de trascender sus dificultades y descubrir la verdad."
   },
   {
     "id": 5,
     "titulo": "Los juegos del hambre",
     "autor": "Suzanne Collins",
-    "precio": 30000,
     "anio": "2008",
     "genero": "Distopía",
-    "img": "img/losjuegosdelhambre.jpg"
+    "img": "img/losjuegosdelhambre.jpg",
+    "descripcion": "El mundo está observando. Ganar significa fama y riqueza. Perder significa una muerte segura. <br> ¡Que empiecen los septuagesimo cuartos juegos del hambre! <br> En una oscura versión del futuro próximo, doce chicos y doce chicas se ven obligados a participar en un reality show llamado Los Juegos del Hambre. Solo hay una regla: matar o morir. <br> Cuando Katniss Everdeen, una joven de dieciseis años, se presenta voluntaria para ocupar el lugar de su hermana en los juegos, lo entiende como una condena a muerte. Sin embargo, Katniss ya ha visto la muerte de cerca y la supervivencia forma parte de su naturaleza."
   },
   {
     "id": 6,
     "titulo": "Baumgartner",
     "autor": "Paul Auster",
-    "precio": 30000,
     "anio": "2023",
     "genero": "Ficción",
-    "img": "img/baumgartner.jpg"
+    "img": "img/baumgartner.jpg",
+    "descripcion": "Baumgartner es un eminente escritor y profesor universitario, tan excéntrico como increíblemente tierno, que hace nueve años perdió a su mujer. Su vida estuvo definida por el amor profundo y duradero que sentía hacia Anna y ahora, con 71 años, continúa luchando por vivir en su ausencia. <br> Su historia común arranca en 1968, cuando se conocen como estudiantes sin dinero en Nueva York y a pesar de ser casi opuestos en muchos aspectos, inician una apasionada relación que se prolongará a lo largo de cuarenta años. La superación del duelo por la pérdida de Anna se intercala con historias maravillosas -desde su juventud en Newark hasta la vida de revolucionario fracasado de su padre en Europa del Este- y con una poderosa reflexión acerca del modo en que amamos en distintas etapas de la vida. <br> Paul Auster alumbra en Baumgartner a uno de los personajes más inolvidables de su carrera, transita con él los caminos del azar y la memoria y explora qué significa el amor en las distintas etapas de la vida y cómo afrontamos el duelo o el trascurrir del tiempo. De una exquisita calidez, contiene toda la sabiduría de aquel que, aun habiendo perdido una parte de sí mismo, ha aprendido que vivir con miedo al dolor es negarse a vivir."
   },
   {
     "id": 7,
     "titulo": "Ser feliz era esto",
     "autor": "Eduardo Sacheri",
-    "precio": 15000,
     "anio": "2014",
     "genero": "Ficción",
-    "img": "img/serfelizeraesto.jpg"
+    "img": "img/serfelizeraesto.jpg",
+    "descripcion": "La vida de Lucas, cercado por su tendencia a la introversión y hundido en la pasividad, cambia abruptamente cuando llama a su puerta Sofía, una chica de catorce años que acaba de perder a su madre y que es la hija que, sin saberlo, ha engendrado con una mujer de la que se enamoró en su juventud y nunca volvió a ver. <br> Con vaivenes, marchas y contramarchas, se va tejiendo poco a poco la confianza y se develan los secretos escondidos en las historias de Lucas y Sofía. Juntos encontrarán el tesoro de las afinidades y la complicidad que, sanando las heridas del desamor y la vergüenza, les permitirá dejar atrás el pasado. <br> Esta novela es la historia de dos seres solitarios y heridos que descubren nuevas formas de amor y enfrentan con miedos y vacilaciones, pero también con la alegría de dar y recibir, el cambio más grande de sus vidas."
   },
   {
     "id": 8,
     "titulo": "El psicoanalista",
     "autor": "John Katzenbach",
-    "precio": 30000,
     "anio": "2002",
     "genero": "Thriller",
-    "img": "img/el-psicoanalista.jpg"
+    "img": "img/el-psicoanalista.jpg",
+    "descripcion": "«Feliz aniversario, doctor. Bienvenido al primer día de su muerte.» Así comienza el anónimo que recibe el psicoanalista Frederick Starks, y que le obliga a emplear toda su astucia y rapidez para, en quince días, averiguar quién es el autor de esa amenazadora misiva que promete hacerle la vida imposible. De no conseguir su objetivo, deberá elegir entre suicidarse o ser testigo de cómo, uno tras otro, sus familiares y conocidos mueren por obra de un psicópata decidido a llevar hasta el final su sed de venganza. Dando un inesperado giro a la relación entre médico y paciente, John Katzenbach nos ofrece una novela emblemática del mejor suspense psicológico."
   }
 ]

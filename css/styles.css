@@ -2,22 +2,11 @@
 
 body {
   background-color: rgb(219, 217, 195);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
 }
+
 * {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-}
-
-[v-cloak] {
-  display: none;
-}
-
-h1,
-h2 {
-  margin: 1rem 0;
 }
 
 .div-title {
@@ -25,34 +14,29 @@ h2 {
   color: #ffffff;
   height: 100px;
 }
+
 .navbar {
   background-color: #206770;
 }
+
 .div-title h1 {
   margin: 0;
 }
 
 h1 a {
-  color: #ffffff;
-}
-
-input[type='search'],
-select {
-  padding: 5px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  margin-bottom: 1rem;
-  margin-right: 1rem;
+  color: aliceblue;
 }
 
 main {
-  min-height: 80vh;
+  min-height: 90vh;
   width: 90%;
   margin: 0 auto;
 }
 
 .card {
   background-color: transparent;
+  border: 0;
+  margin-bottom: 3rem;
 }
 
 .card-title {
@@ -69,40 +53,9 @@ main {
   margin-bottom: 0.5rem;
 }
 
-.card-text.precio {
-  font-size: 1.2rem;
-  margin-top: 0.5rem;
-  font-weight: 500;
-}
-
-.card.carrito {
-  max-width: 300px;
-  margin: 1rem 0;
-  padding: 0.5rem;
-  font-size: 0.9rem;
-}
-
-.card.carrito img {
-  max-height: 120px;
-  object-fit: cover;
-}
-
-.card-title.carrito {
-  font-size: 1rem;
-}
-
-.card-subtitle.carrito {
-  font-size: 0.8rem;
-}
-
-img {
-  object-fit: cover;
-  height: 100%;
-}
-
 .cart {
   background-color: #206770;
-  padding: 6px;
+  padding: 10px;
   color: aliceblue;
   border-radius: 5px;
   font-size: 1rem;
@@ -111,13 +64,9 @@ img {
   margin-right: 0.5rem;
 }
 
-.add {
-  margin-left: 0.5rem;
-  border: 0;
-  background-color: #206770;
-  border-radius: 5px;
-  color: aliceblue;
-  margin-top: 0.5rem;
+button:hover
+{
+  background-color: #4c4b4b;
 }
 
 footer {
